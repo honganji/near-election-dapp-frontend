@@ -2,7 +2,7 @@
 
 ## **Quick Start**
 
-始める前に、[こちら](https://github.com/honganji/near-voting-contract)のコードを clone して、手順に沿ってコントラクトを自分の wallet に deploy していることを確認してください。
+始める前に、[こちら](https://github.com/honganji/near-election-dapp-contract)のコードを clone して、手順に沿ってコントラクトを自分の wallet に deploy していることを確認してください。
 
 ---
 
